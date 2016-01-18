@@ -2,6 +2,4 @@
 Hello world ! I am solving HackerRank programming challenges on https://hackerrank.com/
 
 ###Contest Ad Infinitum 14
-To insure no cheat I will posts my solutions only when the contests will be over.
-
-Good luck to you all in those great challenges !
+Lack of time, I could only solve the 1st challenge. My solution achieved best runtime O(N) 
