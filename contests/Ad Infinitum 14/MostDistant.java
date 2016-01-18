@@ -5,9 +5,11 @@ Sat 16 Januaray 2016
 Made with <3 by Pierre Plantié
 */
 
+// The challenge : https://www.hackerrank.com/contests/infinitum14/challenges/most-distant
 
-// This solution uses cartesian coordinates to compute distance between two points.
-// I store values x and y, both min and max
+// My solution uses cartesian coordinates to compute distance between two points.
+// We assumed that all points have either x = 0 or y = 0.
+// I loop through all points to find values x and y, both min and max
 // Then I compare distance between those points
 // Best runtime O(N) achieved
 
@@ -29,6 +31,8 @@ public class Solution {
         double max = 0;
         Scanner sc = new Scanner(System.in);
         int dots = sc.nextInt();
+
+        // Store values x and y, both min and max
         while (dots > 0){
             tmp = sc.nextInt();
             if (tmp != 0){
@@ -51,6 +55,7 @@ public class Solution {
             dots--;
         }
 
+        // Check distances
         dist[1] = dist(x1, 0, x2, 0);
         dist[2] = dist(x1, 0, 0, y1);
         dist[3] = dist(x1, 0, 0, y2);
@@ -60,11 +65,14 @@ public class Solution {
 
         dist[0] = dist(0, y1, 0, y2);
 
+        // Compare distances
         for(int i = 0; i < 6; i++){
             if(max < dist[i]){
                 max = dist[i];
             }
         }
+
+        // Print distance max
         System.out.println(max);
     }
 }
