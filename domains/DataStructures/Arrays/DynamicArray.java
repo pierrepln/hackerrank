@@ -1,6 +1,6 @@
 /*
 made for HackerRank DataStructures: Dynamic Array
-Thu 18th February 2016
+Fri 19th February 2016
 
 Made with <3 by Pierre Plantié
 */
