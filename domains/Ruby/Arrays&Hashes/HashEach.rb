@@ -1,4 +1,5 @@
-=beginmade for HackerRank Ruby: Ruby Hash - Each
+=begin
+made for HackerRank Ruby: Ruby Hash - Each
 Fri 4th March 2016
 
 Made with <3 by Pierre Plantié

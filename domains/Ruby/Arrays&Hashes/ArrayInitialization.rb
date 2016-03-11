@@ -1,4 +1,5 @@
-=beginmade for HackerRank Ruby: Ruby Array - Initialization
+=begin
+made for HackerRank Ruby: Ruby Array - Initialization
 Sun 28th February 2016
 
 Made with <3 by Pierre Plantié

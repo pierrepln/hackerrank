@@ -1,4 +1,5 @@
-=beginmade for HackerRank Ruby: Ruby Enumerables - group_by
+=begin
+made for HackerRank Ruby: Ruby Enumerables - group_by
 Mon 7th March 2016
 
 Made with <3 by Pierre Plantié

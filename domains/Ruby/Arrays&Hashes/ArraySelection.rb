@@ -1,4 +1,5 @@
-=beginmade for HackerRank Ruby: Ruby Array - Selection
+=begin
+made for HackerRank Ruby: Ruby Array - Selection
 Wed 2nd February 2016
 
 Made with <3 by Pierre Plantié
@@ -18,4 +19,4 @@ end
 
 def keep_arr(arr)
     return arr.keep_if {|a| a >= 0}
-end 
+end

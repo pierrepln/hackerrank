@@ -1,4 +1,5 @@
-=beginmade for HackerRank Ruby: Ruby Array - Index, Part 2
+=begin
+made for HackerRank Ruby: Ruby Array - Index, Part 2
 Mon 29th February 2016
 
 Made with <3 by Pierre Plantié

@@ -1,4 +1,5 @@
-=beginmade for HackerRank Ruby: Ruby Enumerables - Collect
+=begin
+made for HackerRank Ruby: Ruby Enumerables - Collect
 Wed 9th March 2016
 
 Made with <3 by Pierre Plantié

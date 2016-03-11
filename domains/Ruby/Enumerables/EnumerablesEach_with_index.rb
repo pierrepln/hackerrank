@@ -1,4 +1,5 @@
-=beginmade for HackerRank Ruby: Ruby Enumerables - each_with_index
+=begin
+made for HackerRank Ruby: Ruby Enumerables - each_with_index
 Sun 6th March 2016
 
 Made with <3 by Pierre Plantié

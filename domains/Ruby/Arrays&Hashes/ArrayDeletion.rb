@@ -1,4 +1,5 @@
-=beginmade for HackerRank Ruby: Ruby Array - Deletion
+=begin
+made for HackerRank Ruby: Ruby Array - Deletion
 Tue 1st February 2016
 
 Made with <3 by Pierre Plantié

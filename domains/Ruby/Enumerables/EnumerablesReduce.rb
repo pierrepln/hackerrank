@@ -1,4 +1,5 @@
-=beginmade for HackerRank Ruby: Ruby Enumerables - reduce
+=begin
+made for HackerRank Ruby: Ruby Enumerables - reduce
 Thu 10th March 2016
 
 Made with <3 by Pierre Plantié
