@@ -6,5 +6,5 @@ Made with <3 by Pierre Plantié
 =end
 
 def process_text(arr)
-  arr.map(&:strip).join(' ')
+    arr.map(&:strip).join(' ')
 end
