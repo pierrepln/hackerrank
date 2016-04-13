@@ -10,5 +10,5 @@ Made with <3 by Pierre Plantié
 t = gets.strip.to_i
 for a0 in (0..t-1)
     n = gets.strip.to_i
-    puts (1 << (((n+1)/2)+1)) - (1 + (n%2))
+    puts ~(~1<<(n>>1)) << n%2
 end
